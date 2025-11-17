@@ -12,3 +12,5 @@
 12. touch ../../fecha.txt
 
 13. rm ../../gamma/apellido.txt
+
+14. mv ../../fecha.txt fecha2.txt
