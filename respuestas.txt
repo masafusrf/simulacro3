@@ -1,0 +1,2 @@
+1. mkdir prueba
+    mkdir prueba/alpha prueba/beta prueba/gamma
