@@ -6,3 +6,5 @@
 3. cd beta/ && cp ../alpha/apellido.txt ../gamma
 
 10. cd ../ && mkdir beta/betaExtra
+
+11. cd beta/betaExtra/
