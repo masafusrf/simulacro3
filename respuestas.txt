@@ -8,3 +8,5 @@
 10. cd ../ && mkdir beta/betaExtra
 
 11. cd beta/betaExtra/
+
+12. touch ../../fecha.txt
