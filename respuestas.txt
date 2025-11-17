@@ -1,2 +1,4 @@
 1. mkdir prueba
     mkdir prueba/alpha prueba/beta prueba/gamma
+
+2. cd prueba/ && touch alpha/apellido.txt
